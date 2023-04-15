@@ -111,10 +111,10 @@ h1 {
 
 .about h2,
 .about h2:nth-child(2) {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
-.about h2:nth-child(2) {
+.about h2 {
     margin-top: 50px;
 }
 
